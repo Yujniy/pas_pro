@@ -2,7 +2,8 @@
 
 
 
-https://github.com/Yujniy/pas_pro/assets/132089930/1e5032de-001c-47d8-bf09-583aad7e7200
+![пример](https://github.com/Yujniy/pas_pro/assets/132089930/26d0437b-b4a6-469a-b890-9da88a80755d)
+
 
 
 
